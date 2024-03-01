@@ -1,5 +1,5 @@
 :root {
-  --card-height: 300px;
+  --card-height: 350px;
   --card-width: calc(var(--card-height) / 1.5);
 }
 * {
@@ -7,7 +7,7 @@
 }
 body {
   width: 100vw;
-  height: 100vh;
+  height: 130vh;
   margin: 0;
   display: flex;
   justify-content: center;
